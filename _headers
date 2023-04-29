@@ -1,5 +1,4 @@
 ## the path for which the header must be set: 
-/* 
 /* Content-Security-Policy: default-src 'self';
 ## the actual header: 
 Test-header: testvalue;
